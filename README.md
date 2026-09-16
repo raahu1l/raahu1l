@@ -35,4 +35,4 @@ Projects I'm currently building and refining.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/rahul-walawalkar-ab9593857/)
+[LinkedIn](https://www.linkedin.com/in/rahul-walawalkar-ab9589385)
