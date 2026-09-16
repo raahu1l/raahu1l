@@ -13,33 +13,13 @@ with interests in cybersecurity and data analytics.
 
 **Languages:** JavaScript, TypeScript, Python, Java, SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-</p>
-
 **Frontend:** HTML, CSS, React, Next.js, Flutter
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" />
-</p>
 
 **Backend:** Node.js, Express
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
 **Databases / Backend Services:** Supabase, Firebase
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase" />
-</p>
-
 **Tools:** Git, GitHub, VS Code, Cursor, Antigravity, Google AI Studio, Postman, Thunder Client, Linux, Vercel, Render
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
-</p>
 
 **AI / APIs:** Groq, OpenRouter, Gemini API
 
