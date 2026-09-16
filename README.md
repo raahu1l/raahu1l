@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**raahu1l/raahu1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer focused on building web and AI-powered applications,
+with interests in cybersecurity and data analytics.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web applications and full-stack projects
+- AI-powered applications and tools
+- Projects exploring cybersecurity
+
+- ## Technologies I've Worked With
+
+**Languages:** JavaScript, TypeScript, Python, Java, SQL
+
+**Frontend:** HTML, CSS, React, Next.js, Flutter
+
+**Backend:** Node.js, Express
+
+**Databases / Backend Services:** Supabase, Firebase
+
+**Tools:** Git, GitHub, VS Code, Cursor, Antigravity, Google AI Studio, Postman, Thunder Client, Linux, Vercel, Render
+
+**AI / APIs:** Groq, OpenRouter, Gemini API
+
+## Currently Learning
+
+- Cloud
+- Data analytics
+- Cybersecurity
+
+- ## Projects
+
+Projects I'm currently building and refining.
+
+<!-- Featured projects will be added here as they become ready. -->
+
+## Connect
+
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn] (https://www.linkedin.com/in/rahul-walawalkar-ab9589385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
