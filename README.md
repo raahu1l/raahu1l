@@ -9,17 +9,37 @@ with interests in cybersecurity and data analytics.
 - AI-powered applications and tools
 - Projects exploring cybersecurity
 
-- ## Technologies I've Worked With
+## Technologies I've Worked With
 
 **Languages:** JavaScript, TypeScript, Python, Java, SQL
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
+
 **Frontend:** HTML, CSS, React, Next.js, Flutter
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" />
+</p>
 
 **Backend:** Node.js, Express
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 **Databases / Backend Services:** Supabase, Firebase
 
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+</p>
+
 **Tools:** Git, GitHub, VS Code, Cursor, Antigravity, Google AI Studio, Postman, Thunder Client, Linux, Vercel, Render
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
+</p>
 
 **AI / APIs:** Groq, OpenRouter, Gemini API
 
@@ -29,12 +49,10 @@ with interests in cybersecurity and data analytics.
 - Data analytics
 - Cybersecurity
 
-- ## Projects
+## Projects
 
 Projects I'm currently building and refining.
 
-<!-- Featured projects will be added here as they become ready. -->
-
 ## Connect
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn] (https://www.linkedin.com/in/rahul-walawalkar-ab9589385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[LinkedIn](https://www.linkedin.com/in/rahul-walawalkar-ab9593857/)
