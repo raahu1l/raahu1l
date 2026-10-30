@@ -1,38 +1,49 @@
 # Hi, I'm Rahul 👋
+Full-Stack Developer building web and AI-powered applications, with a growing focus on cybersecurity and data analytics.
 
-Aspiring Full-Stack Developer focused on building web and AI-powered applications,
-with interests in cybersecurity and data analytics.
-
-## What I Build
-
+## 🔨 What I Build
 - Web applications and full-stack projects
 - AI-powered applications and tools
 - Projects exploring cybersecurity
 
-## Technologies I've Worked With
+## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Java, SQL
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" />
 
-**Frontend:** HTML, CSS, React, Next.js, Flutter
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,figma" />
 
-**Backend:** Node.js, Express
+**Backend & Databases**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" />
 
-**Databases / Backend Services:** Supabase, Firebase
+**Tools & Deployment**<br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel" />
 
-**Tools:** Git, GitHub, VS Code, Cursor, Antigravity, Google AI Studio, Postman, Thunder Client, Linux, Vercel, Render
+**AI & APIs**<br>
+Groq · OpenRouter · Gemini API
 
-**AI / APIs:** Groq, OpenRouter, Gemini API
+## 📊 Top Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raahu1l&theme=default" alt="Top languages" />
 
-## Currently Learning
+## 🚀 Projects
 
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/raahu1l/git-workflow-simulator">📦 Git Workflow Simulator</a></b><br>
+      Open-source sandbox where each user gets their own Dockerized git environment with a real terminal, so they can practice git workflows safely.<br><br>
+      <img src="https://skillicons.dev/icons?i=docker,git" />
+    </td>
+  </tr>
+</table>
+
+*More in my pinned repositories below ↓*
+
+## 📈 Currently Learning
 - Cloud
 - Data analytics
 - Cybersecurity
 
-## Projects
-
-Projects I'm currently building and refining.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/rahul-walawalkar-ab9589385)
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/rahul-walawalkar-ab9589385) · walawalkarrahul11@gmail.com
